@@ -2,7 +2,8 @@
 
 ### Project execution steps
 
-* python atbash.py in.txt out.txt
+* for running program: ```python atbash.py --infile in.txt --outfile out.txt```
+* for running test case: ```pytest tests.py```
 
 ### Assumptions
 
